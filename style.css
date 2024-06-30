@@ -48,6 +48,12 @@ body {
     justify-content: center;
     align-items: center;
 }
+.hero-img img{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    border: 2px solid white;
+}
 .gradient-text{
     background: -webkit-linear-gradient(right, #13B0F5, #E70FAA);
   -webkit-background-clip: text;
